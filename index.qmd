@@ -1,0 +1,9 @@
+---
+title: "Hello, Quarto"
+---
+
+This site is built with Quarto, Python, and `uv`.
+
+```{python}
+print("It works!")
+```

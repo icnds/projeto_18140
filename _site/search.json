@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello, Quarto",
+    "section": "",
+    "text": "This site is built with Quarto, Python, and uv.\n\nprint(\"It works!\")\n\nIt works!"
+  }
+]
