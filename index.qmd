@@ -6,4 +6,5 @@ This site is built with Quarto, Python, and `uv`.
 
 ```{python}
 print("It works!")
+print("It changed!")
 ```
